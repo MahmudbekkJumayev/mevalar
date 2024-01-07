@@ -1,0 +1,17 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box {
+  background-color: rgb(187, 215, 215);
+}
+
+input:focus,
+input:active,
+input {
+  outline: none;
+}

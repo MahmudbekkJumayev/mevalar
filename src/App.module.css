@@ -1,0 +1,13 @@
+.container {
+  max-width: 600px;
+  background-color: rgba(148, 98, 65, 0.709);
+  border: 1px solid rgb(233, 10, 10);
+  border-radius: 10px;
+  padding: 20px 30px;
+  margin: 50px auto;
+}
+.btn {
+  padding: 8px 14px;
+  font-size: 17px;
+  border-radius: 5px;
+}
